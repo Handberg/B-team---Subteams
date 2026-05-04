@@ -5,13 +5,13 @@ import streamlit as st
 
 # Fixed internal list of team members - edit this to match your team
 TEAM_MEMBERS = [
-    "Alex",
-    "Bonnie",
-    "Charlie",
-    "Diana",
-    "Erik",
-    "Freja",
-    "Gustav",
+    "Jacob",
+    "Ravindra",
+    "Can",
+    "Jon",
+    "Sindri",
+    "Thanassis",
+    "Felipe",
 ]
 
 NUM_PRODUCT_OWNERS = 2
